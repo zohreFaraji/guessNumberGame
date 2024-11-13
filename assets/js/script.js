@@ -121,5 +121,6 @@ again.addEventListener('click', () => {
   msg.textContent = 'Start guessing...';
   numberQues.textContent = '?';
   body.style.background = 'rgb(34, 34, 34)';
+  numberQues.style.width = '15rem';
   rand = Math.floor(Math.random() * 20) + 1;
 });
