@@ -1,3 +1,4 @@
+
 # guessNumberGame
 
 ![0](https://github.com/user-attachments/assets/e58c4c55-6c63-4e11-9b5d-f75ec7490c93)
@@ -19,4 +20,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [mailto](zohre.faraji.212@gmail.com), [instagram1](https://www.instagram.com/zohrefarajii212?igsh=MXkxdDgzY3dtcmZyaA==), [instagram2](https://www.instagram.com/zohrefaraji212/) and [linkedin](https://www.linkedin.com/in/zohre-faraji-41822315a/)
+- How to reach me : with my [Email](mailto:zohre.faraji.212@gmail.com), [instagram1](https://www.instagram.com/zohrefarajii212?igsh=MXkxdDgzY3dtcmZyaA==), [instagram2](https://www.instagram.com/zohrefaraji212/) and [linkedin](https://www.linkedin.com/in/zohre-faraji-41822315a/)
