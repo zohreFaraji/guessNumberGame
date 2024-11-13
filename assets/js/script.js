@@ -81,9 +81,11 @@ const handleGuess = () => {
       highscore.textContent = maxScore(scoreCountprev);
     }
   } else if (inp.value == 0) {
+    inp.value = '';
     msg.textContent = '🚫️ No number!';
     scoreCount--;
   } else {
+    inp.value = '';
     msg.textContent = '⛔️ plase enter a number between 1 and 20';
     scoreCount--;
   }
